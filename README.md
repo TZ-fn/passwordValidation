@@ -1,0 +1,2 @@
+# Password Validation Practice
+Simple password validation practice, solving this [exercise](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter17.md#form-validation) from "The JavaScript Way" book by Baptiste Pesquet.
