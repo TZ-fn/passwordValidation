@@ -15,7 +15,7 @@ window.onload = function () {
         passwordHelperBox.textContent = 'ERROR: Password must include 1 or more digits.';
       } else {
         passwordHelperBox.className = 'info';
-        passwordHelperBox.textContent = 'INFO: Password is correct.';
+        passwordHelperBox.textContent = 'INFO: Password is valid.';
       }
     },
     validateConf = function (e) {
